@@ -8,4 +8,4 @@ or message me privatly pinkulu#6260
 
 
 ![Pinkulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkulu&show_icons=true&theme=radical)
-![Github languges](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkulu&layout=compact)
+![Github languges](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkulu&layout=compact&theme=radical)
