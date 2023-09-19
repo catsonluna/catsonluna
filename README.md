@@ -1,4 +1,3 @@
-Hi I'm Luna!
 If you want to conntact me the best way is to join my discord server https://discord.gg/Fykpshg
 
 [![Discord Banner 1](https://discordapp.com/api/guilds/681561708052873358/widget.png?style=banner1)](https://discord.gg/Fykpshg)
